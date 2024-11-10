@@ -3,6 +3,7 @@
 https://ai.google.dev/gemini-api/docs/api-key?hl=ja
 
 また下記のインストールも要ります。
+
 pip install google-generativeai python-docx pandas pathlib
 
 ①取得したAPIキーを下記812行目の'Gemini API KEY'にコピペ
