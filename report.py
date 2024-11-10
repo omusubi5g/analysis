@@ -72,7 +72,7 @@ class DocumentAnalyzer:
             - 結論: [文書の結論や最終的な主張]
             
             文書:
-            {text[:50000]}
+            {text[:10000]}
             """
             
             response = self.model.generate_content(prompt)
