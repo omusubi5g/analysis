@@ -14,3 +14,5 @@ input_folder = args.input_folder or
 
 以上で完了です。あとは
 python report.py で実行すれば同フォルダにレポートがhtmlで出力されます。
+出力例：
+https://omusubi5g.github.io/tdoc.github.io/RAN1_119/NTN_analysis.html
